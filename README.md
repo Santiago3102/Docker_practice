@@ -1,3 +1,6 @@
+![docker image](https://dkrn4sk0rn31v.cloudfront.net/uploads/2018/09/28135119/capa-docker.jpg)
+
+
 # Backend de la Aplicación Web Kanban
 
 Este repositorio contiene el backend de una aplicación web estilo Kanban, en la rama main esta el backend escrito en JavaScript y en la rama TS_main esta el backend escrito en TypeScript.
